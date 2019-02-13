@@ -1,0 +1,23 @@
+﻿<div id="chartContainer"></div>
+
+<script type="text/javascript">
+
+    $(function () {
+        var chart = new CanvasJS.Chart("chartContainer", {
+            theme: "dark",
+            animationEnabled: true,
+            title: {
+                text: "Parabolic chart"
+            },
+
+            data: [
+            {
+                type: "spline",
+                dataPoints: @Html.Raw(ViewBag.DataPoints),
+            }
+            ]
+        });
+
+        chart.render();
+    });
+</script>

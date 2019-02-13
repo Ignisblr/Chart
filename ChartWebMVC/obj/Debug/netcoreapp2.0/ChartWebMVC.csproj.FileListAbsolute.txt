@@ -1,0 +1,33 @@
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.deps.json
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.json
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.dev.json
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.pdb
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csprojResolveAssemblyReference.cache
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csproj.CoreCompileInputs.cache
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfoInputs.cache
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfo.cs
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\users\ignis\documents\visual studio 2017\Templates\ProjectTemplates\Visual C#\KvitkouNet\OwnStatistic\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.pdb
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.deps.json
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.json
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.dev.json
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.pdb
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csprojResolveAssemblyReference.cache
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csproj.CoreCompileInputs.cache
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfoInputs.cache
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfo.cs
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\Users\Ignis\source\repos\ChartWebMVC\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.pdb
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.deps.json
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.json
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.runtimeconfig.dev.json
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\bin\Debug\netcoreapp2.0\ChartWebMVC.pdb
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csprojResolveAssemblyReference.cache
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.csproj.CoreCompileInputs.cache
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfoInputs.cache
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.AssemblyInfo.cs
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.dll
+c:\Users\Ignis\source\repos\Сhart\ChartWebMVC\obj\Debug\netcoreapp2.0\ChartWebMVC.pdb
